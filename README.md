@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Formación multidisciplinar en filosofía, lingüística, analítica de datos y pensamiento complejo
 🤓 Experiencia en el análisis de información cualitativa y cuantitativa para la generación de contenidos periodísticos, coorporativos y de mercadeo
 👩‍Interés por la analítica de datos para analizar los fenómenos sociales y de justicia
